@@ -19,3 +19,8 @@ class mathematical_functions:
 
     def ANOVA():
         print('Analysis of Variance')
+
+
+class windows:
+    def test_type():
+        print('test type')

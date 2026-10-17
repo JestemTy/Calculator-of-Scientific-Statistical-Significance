@@ -12,6 +12,7 @@ root.minsize(width=500, height=300)
 base = ttk.Frame(root, padding=10,).pack()
 ttk.Label(base,text='Welcome').pack()
 
+# plan, open secoundary message box for test type and data import
 ttk.Button(base,text='T-Test',command=mathematical_functions.t_test).pack()
 
 # Required to post the window
