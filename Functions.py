@@ -1,5 +1,4 @@
 
-
 class mathematical_functions:
 # Mathematical fuctions
     def t_test():
